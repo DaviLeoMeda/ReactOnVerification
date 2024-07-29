@@ -4,4 +4,4 @@ const path = require('path');
 const cors = require('cors');
 
 //routes
-app.use('/register', require('./src/Api/register'));
+app.use('/registration', require('./src/Api/register'));
