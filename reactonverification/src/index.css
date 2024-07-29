@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DK+Loopet:wght@100..400&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Playwrite DK Loopet", sans-serif;
+  font-optical-sizing: auto;
+  background: url('./Components/LoginForm/img/villa-gamberaia-parterre-eau-loggia-villa-1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
